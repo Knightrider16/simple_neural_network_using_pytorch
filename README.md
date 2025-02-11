@@ -1,0 +1,1 @@
+Neural network having 2 hidden layers,with 20 neurons on each layer, and used ReLU as activation function and ADAM as optimizer. Training done on california house pricing dataset on sklearn. The output is linear with one neuron.
